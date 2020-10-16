@@ -1,0 +1,589 @@
+# Translation of Plugins - Advanced Woo Search - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Advanced Woo Search - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-11 12:43:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Advanced Woo Search - Stable (latest release)\n"
+
+#: includes/admin/class-aws-admin-fields.php:304
+msgid "No"
+msgstr "No"
+
+#: includes/admin/class-aws-admin-fields.php:304
+msgid "Enable this source"
+msgstr "Activar este origen"
+
+#: includes/admin/class-aws-admin-fields.php:303
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/admin/class-aws-admin-fields.php:303
+msgid "Disable this source"
+msgstr "Desactivar este origen"
+
+#: includes/admin/class-aws-admin-options.php:248
+msgid "Archive Pages"
+msgstr "Páginas de archivo"
+
+#: includes/admin/class-aws-admin-options.php:247
+msgid "Search for taxonomies and displayed their archive pages in search results."
+msgstr "Busca taxonomías y muestra sus páginas de archivo en los resultados de búsqueda."
+
+#: includes/admin/class-aws-admin-options.php:246
+msgid "Archive pages"
+msgstr "Páginas de archivo"
+
+#: includes/admin/class-aws-admin-options.php:240
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/class-aws-admin-options.php:239
+#: includes/admin/class-aws-admin-options.php:256
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: includes/admin/class-aws-admin-options.php:238
+#: includes/admin/class-aws-admin-options.php:255
+msgid "Category"
+msgstr "Categoría"
+
+#: includes/admin/class-aws-admin-options.php:234
+msgid "Title"
+msgstr "Título"
+
+#: includes/admin/class-aws-admin-options.php:222
+msgid "Search Source"
+msgstr "Origen de la búsqueda"
+
+#: includes/admin/class-aws-admin-options.php:221
+msgid "Click on status icon to enable or disable search source."
+msgstr "Haz clic en el icono de estado para activar o desactivar la fuente de búsqueda."
+
+#: includes/modules/divi/class-divi-aws-module.php:29
+msgid "Add placeholder text or leave empty to use default."
+msgstr "Añade un texto como marcador de posición o déjalo vacío para usar el que viene por defecto."
+
+#: includes/modules/elementor-widget/class-elementor-aws-widget.php:79
+#: includes/modules/divi/class-divi-aws-module.php:26
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: includes/admin/class-aws-admin-options.php:379
+msgid "Full screen search on focus. Will not works if search form is inside block with position: fixed."
+msgstr "Búsqueda de pantalla completa al enfocar. No funcionará si el formulario de búsqueda está dentro de un bloque con position: fixed."
+
+#: includes/admin/class-aws-admin-options.php:378
+msgid "Mobile full screen"
+msgstr "Pantalla completa en móviles"
+
+#: includes/admin/class-aws-admin-options.php:463
+msgid "Highlight search words inside products content."
+msgstr "Destacar las palabras buscadas dentro del contenido de los productos."
+
+#: includes/admin/class-aws-admin-options.php:462
+msgid "Highlight words"
+msgstr "Destacar palabras"
+
+#: includes/admin/class-aws-admin-options.php:237
+#: includes/admin/class-aws-admin-options.php:424
+msgid "Short description"
+msgstr "Descripción corta"
+
+#: includes/admin/class-aws-admin-options.php:296
+msgid "More info"
+msgstr "Más información"
+
+#: includes/admin/class-aws-admin-options.php:296
+msgid "Data will be visible inside Google Analytics 'Site Search' report. Need to activate 'Site Search' feature inside GA. %s"
+msgstr "Los datos serán visibles dentro del informe «Site search» de Google Analytics. Necesitas activar la característica «Site search» dentro de GA. %s"
+
+#: includes/admin/class-aws-admin-options.php:285
+msgid "Comma separated list of synonym words. Each group of synonyms must be on separated text line."
+msgstr "Lista de sinónimos separada por comas. Cada grupo de sinónimos debe estar en una línea de texto separada."
+
+#: includes/admin/class-aws-admin-options.php:284
+msgid "Synonyms"
+msgstr "Sinónimos"
+
+#: advanced-woo-search.php:262
+msgid "Advanced Woo Search plugin is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "El plugin Advanced Woo Search está activado pero no es efectivo. Para funcionar, necesita WooCommerce."
+
+#: advanced-woo-search.php:180
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/admin/class-aws-admin-options.php:236 advanced-woo-search.php:167
+msgid "SKU"
+msgstr "SKU"
+
+#: advanced-woo-search.php:166
+msgid "Sale!"
+msgstr "¡Oferta!"
+
+#: includes/admin/class-aws-admin-fields.php:334
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: includes/admin/class-aws-admin-fields.php:241
+msgid "Excluded from search results"
+msgstr "Excluidas de los resultados de búsqueda"
+
+#: includes/admin/class-aws-admin-fields.php:240
+msgid "Deactivated sources"
+msgstr "Fuentes inactivas"
+
+#: includes/admin/class-aws-admin-fields.php:221
+msgid "Change order by drag&drop"
+msgstr "Cambiar el orden arrastrando y soltando"
+
+#: includes/admin/class-aws-admin-fields.php:220
+msgid "Active sources"
+msgstr "Orígenes activos"
+
+#: includes/admin/class-aws-admin.php:170
+msgid "Clear cache for all search results."
+msgstr "Vaciar la caché para todos los resultados de búsqueda."
+
+#: includes/admin/class-aws-admin.php:167
+#: includes/admin/class-aws-admin.php:169
+msgid "Clear cache"
+msgstr "Vaciar la caché"
+
+#: includes/admin/class-aws-admin.php:158
+msgid "Products in index:"
+msgstr "Productos en el índice:"
+
+#: includes/admin/class-aws-admin.php:157
+msgid "Update all data in plugins index table. Index table - table with products data where plugin is searching all typed terms.<br>Use this button if you think that plugin not shows last actual data in its search results.<br><strong>CAUTION:</strong> this can take large amount of time."
+msgstr "Actualiza todos los datos en la tabla de índices de los plugins. Los datos en la tabla de índices - tabla con datos de productos donde el plugin busca todos los términos introducidos. <br>Usa este botón si piensas que el plugin no muestra los datos actuales en los resultados de búsqueda.<br><strong>PRECAUCIÓN:</strong> esta tarea puede tomar un tiempo considerable."
+
+#: includes/admin/class-aws-admin.php:156
+msgid "This action only need for %s one time %s - after you activate this plugin. After this all products changes will be re-indexed automatically."
+msgstr "Esta acción solo se necesita %s una vez %s - después de haber activado este plugin. Después de esto, todas las modificaciones que se hagan en los productos serán re-indexadas automáticamente."
+
+#: includes/admin/class-aws-admin.php:152
+#: includes/admin/class-aws-admin.php:154
+msgid "Reindex table"
+msgstr "Re-indexar tabla"
+
+#: includes/admin/class-aws-admin.php:143
+msgid "Add PHP code to the necessary files of your theme: %s"
+msgstr "Añadir código PHP en los archivos de tu tema: %s"
+
+#: includes/admin/class-aws-admin.php:142
+msgid "Add search form as widget for one of your theme widget areas. Go to Appearance -> Widgets and drag&drop AWS Widget to one of your widget areas"
+msgstr "Añade el formulario de búsqueda como un widget para una de las áreas de widgets de tu tema. Ve a Apariencia -> Widgets y arrastra y suelta el Widget AWS a una de tus áreas de widgets."
+
+#: includes/admin/class-aws-admin.php:141
+msgid "Add search form using shortcode %s"
+msgstr "Añade el formulario de búsqueda utilizando el shortcode %s"
+
+#: includes/admin/class-aws-admin.php:140
+msgid "Enable a \"Seamless integration\" option ( may not work with some themes )"
+msgstr "Activa la opción «Integración perfecta» (puede que no funcione con algunos temas)"
+
+#: includes/admin/class-aws-admin.php:138
+msgid "In case you need to add plugin search form on your website, you can do it in several ways:"
+msgstr "In caso de que necesites añadir el formulario de búsqueda en tu web, puedes hacelo de varias formas:"
+
+#: includes/admin/class-aws-admin.php:135
+msgid "Activation"
+msgstr "Activación"
+
+#: includes/admin/class-aws-admin.php:87 advanced-woo-search.php:183
+msgid "Get Premium"
+msgstr "Obtén la versión Premium"
+
+#: includes/admin/class-aws-admin.php:74
+msgid "Search Form"
+msgstr "Formulario de búsqueda"
+
+#: includes/admin/class-aws-admin.php:73
+msgid "General"
+msgstr "General"
+
+#: includes/admin/class-aws-admin.php:62
+msgid "Adv. Woo Search"
+msgstr "Adv. Woo Search"
+
+#: includes/class-aws-search.php:613
+msgid "Out of stock"
+msgstr "Sin existencias"
+
+#: includes/class-aws-search.php:608
+msgid "In stock"
+msgstr "Con existencias"
+
+#: includes/widget.php:70
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/widget.php:64
+msgid "Search..."
+msgstr "Buscar..."
+
+#: includes/widget.php:20
+msgid "&raquo; AWS Widget"
+msgstr "&raquo; Widget AWS"
+
+#: includes/widget.php:18
+msgid "Advanced WooCommerce search widget"
+msgstr "Widget de Advanced WooCommerce search"
+
+#: includes/class-aws-versions.php:367
+msgid "Advanced Woo Search: Please reindex table for proper work of new plugin features. %s"
+msgstr "Advanced Woo Search: Por favor, re-indexa la tabla para que las nuevas características del plugin funcionen correctamente. %s"
+
+#: includes/class-aws-versions.php:358 includes/class-aws-versions.php:367
+msgid "Go to Settings Page"
+msgstr "Ve a la página de ajustes"
+
+#: includes/class-aws-versions.php:358
+msgid "Advanced Woo Search: Please go to plugin setting page and start the indexing of your products. %s"
+msgstr "Advanced Woo Search: Por favor, ve a la página de ajustes del plugin y comienza a indexar tus productos. %s"
+
+#: includes/admin/class-aws-admin-options.php:559
+msgid "Show or not star icon for featured products."
+msgstr "Mostrar o no el icono de estrella para los productos destacados."
+
+#: includes/admin/class-aws-admin-options.php:558
+msgid "Show featured icon"
+msgstr "Mostrar icono de destacado"
+
+#: includes/admin/class-aws-admin-options.php:547
+msgid "Show stock status for every product in search results."
+msgstr "Mostrar el estado del inventario para cada producto en los resultados de búsqueda"
+
+#: includes/admin/class-aws-admin-options.php:546
+msgid "Show stock status"
+msgstr "Mostrar el estado del inventario"
+
+#: includes/admin/class-aws-admin-options.php:535
+msgid "Show product SKU in search results."
+msgstr "Mostrar el SKU del producto en los resultados de búsqueda."
+
+#: includes/admin/class-aws-admin-options.php:534
+msgid "Show product SKU"
+msgstr "Mostrar el SKU del producto"
+
+#: includes/admin/class-aws-admin-options.php:523
+msgid "Show sale badge for products in search results."
+msgstr "Mostrar la acreditación de oferta de los productos en los resultados de búsqueda."
+
+#: includes/admin/class-aws-admin-options.php:522
+msgid "Show sale badge"
+msgstr "Mostrar la acreditación de oferta"
+
+#: includes/admin/class-aws-admin-options.php:511
+msgid "Show product price for out of stock products."
+msgstr "Mostrar el precio del producto en los productos sin existencias."
+
+#: includes/admin/class-aws-admin-options.php:510
+msgid "Show price for out of stock"
+msgstr "Mostrar precio para productos sin existencias."
+
+#: includes/admin/class-aws-admin-options.php:499
+msgid "Show product price for each search result."
+msgstr "Mostrar el precio del producto en cada resultado de búsqueda."
+
+#: includes/admin/class-aws-admin-options.php:498
+msgid "Show price"
+msgstr "Mostrar precio"
+
+#: includes/admin/class-aws-admin-options.php:436
+msgid "First N words of product description ( number of words that you choose below. )"
+msgstr "Primeras N palabras de la descripción del producto (el número de palabras lo escoges debajo)."
+
+#: includes/admin/class-aws-admin-options.php:435
+msgid "Smart scrapping sentences with searching terms from product description."
+msgstr "Búsqueda inteligente de frases para términos de búsqueda de la descripción del producto."
+
+#: includes/admin/class-aws-admin-options.php:430
+msgid "What to show in product description?"
+msgstr "Qué mostrar en la descripción del producto"
+
+#: includes/admin/class-aws-admin-options.php:429
+msgid "Description content"
+msgstr "Contenido de la descripción"
+
+#: includes/admin/class-aws-admin-options.php:487
+msgid "Show product description for each search result."
+msgstr "Mostrar la descripción del producto para cada resultado de búsqueda."
+
+#: includes/admin/class-aws-admin-options.php:486
+msgid "Show description"
+msgstr "Mostrar descripción"
+
+#: includes/admin/class-aws-admin-options.php:475
+msgid "Show product image for each search result."
+msgstr "Mostrar la imagen del producto para cada resultado de búsqueda."
+
+#: includes/admin/class-aws-admin-options.php:474
+msgid "Show image"
+msgstr "Mostrar imagen"
+
+#: includes/admin/class-aws-admin-options.php:457
+msgid "View"
+msgstr "Ver"
+
+#: includes/admin/class-aws-admin-options.php:450
+msgid "Maximum number of displayed search results."
+msgstr "Cantidad máxima de resultados de búsqueda mostrados."
+
+#: includes/admin/class-aws-admin-options.php:449
+msgid "Max number of results"
+msgstr "Cantidad máx. de resultados"
+
+#: includes/admin/class-aws-admin-options.php:442
+msgid "Maximal allowed number of words for product description."
+msgstr "Número máximo de palabras permitidas para la descripción del producto."
+
+#: includes/admin/class-aws-admin-options.php:441
+msgid "Description length"
+msgstr "Longitud de la descripción"
+
+#: includes/modules/elementor-widget/class-elementor-aws-widget.php:71
+#: includes/admin/class-aws-admin-options.php:235
+#: includes/admin/class-aws-admin-options.php:423
+msgid "Content"
+msgstr "Contenido"
+
+#: includes/admin/class-aws-admin-options.php:418
+msgid "From where to take product description.<br>If first source is empty data will be taken from other sources."
+msgstr "Desde donde tomar la descripción del producto.<br>Si la primera fuente no tiene datos ésta se tomará de las otras fuentes."
+
+#: includes/admin/class-aws-admin-options.php:417
+msgid "Description source"
+msgstr "Fuente de la descripción"
+
+#: includes/admin/class-aws-admin-options.php:404
+msgid "Filter button will be visible only if you have more than one active filter for current search form instance."
+msgstr "El botón de filtro solo será visible si tienes más de un filtro activo para la instancia de búsqueda actual."
+
+#: includes/admin/class-aws-admin-options.php:404
+msgid "Choose search form layout"
+msgstr "Elige la disposición del formulario de búsqueda"
+
+#: includes/admin/class-aws-admin-options.php:403
+msgid "Form Styling"
+msgstr "Estilos del formulario"
+
+#: includes/admin/class-aws-admin-options.php:398
+msgid "Only search results page ( no ajax search results )"
+msgstr "Solo página de resultados (sin resultados ajax)"
+
+#: includes/admin/class-aws-admin-options.php:397
+msgid "Only ajax search results ( no search results page )"
+msgstr "Solo resultados de la búsqueda ajax (sin página de resultados)"
+
+#: includes/admin/class-aws-admin-options.php:396
+msgid "Both ajax search results and search results page"
+msgstr "Ambos, resultados de búsqueda ajax y página de resultados"
+
+#: includes/admin/class-aws-admin-options.php:391
+msgid "Choose how to view search results."
+msgstr "Elige cómo ver los resultados de búsqueda."
+
+#: includes/admin/class-aws-admin.php:75
+#: includes/admin/class-aws-admin-options.php:390
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: includes/admin/class-aws-admin-options.php:367
+msgid "Show link to search results page at the bottom of search results block."
+msgstr "Mostrar un enlace a la página de resultados de búsqueda al final del bloque de resultados."
+
+#: includes/admin/class-aws-admin-options.php:366
+msgid "Show 'View All Results'"
+msgstr "Mostrar «Ver todos los resultados»"
+
+#: includes/admin/class-aws-admin-options.php:355
+msgid "Show 'Clear search string' button for desktop devices ( for mobile it is always visible )."
+msgstr "Mostrar el botón «Vaciar cadena de búsqueda» en dispositivos de escritorio (para dispositivos móviles siempre está visible)."
+
+#: includes/admin/class-aws-admin-options.php:354
+msgid "Show clear button"
+msgstr "Mostrar botón vaciar"
+
+#: includes/admin/class-aws-admin-options.php:343
+msgid "Show loader animation while searching."
+msgstr "Mostrar animación de carga al buscar."
+
+#: includes/admin/class-aws-admin-options.php:342
+msgid "Show loader"
+msgstr "Mostrar cargador"
+
+#: includes/admin/class-aws-admin-options.php:335
+msgid "Minimum number of characters required to run ajax search."
+msgstr "Cantidad mínima de caracteres necesaria para la búsqueda ajax."
+
+#: includes/admin/class-aws-admin-options.php:334
+msgid "Minimum number of characters"
+msgstr "Número min. de caracteres"
+
+#: includes/admin/class-aws-admin-options.php:328 advanced-woo-search.php:169
+msgid "Nothing found"
+msgstr "No se ha encontrado nada"
+
+#: includes/admin/class-aws-admin-options.php:326
+msgid "Text when there is no search results."
+msgstr "Texto para cuando no se encuentran resultados."
+
+#: includes/admin/class-aws-admin-options.php:325
+msgid "Nothing found field"
+msgstr "Campo de no encontrado"
+
+#: includes/class-aws-versions.php:198
+#: includes/admin/class-aws-admin-options.php:320 advanced-woo-search.php:168
+msgid "View all results"
+msgstr "Ver todos los resultados"
+
+#: includes/admin/class-aws-admin-options.php:318
+msgid "Text for link to search results page at the bottom of search results block."
+msgstr "Texto para el enlace de la página de resultados de búsqueda al final del bloque de resultados."
+
+#: includes/admin/class-aws-admin-options.php:317
+msgid "Text for show more button"
+msgstr "Texto para el botón mostrar más"
+
+#: includes/admin/class-aws-admin-options.php:312
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/admin/class-aws-admin-options.php:310
+msgid "Text for search field placeholder."
+msgstr "Texto para el marcador de posición del campo de búsqueda."
+
+#: includes/admin/class-aws-admin-options.php:309
+msgid "Text for search field"
+msgstr "Texto para el campo de búsqueda"
+
+#: includes/admin/class-aws-admin-options.php:297
+msgid "Also will send event with category - 'AWS search', action - 'AWS Search Term' and label of value of search term."
+msgstr "También enviará el evento con la categoría - La acción «AWS search» - «AWS Search Term» y la etiqueta del valor del término buscado."
+
+#: includes/admin/class-aws-admin-options.php:295
+msgid "Use google analytics to track searches. You need google analytics to be installed on your site."
+msgstr "Usa Google Analytics para el seguimiento de las búsquedas. Necesitas tener instalado Google Analytics en tu sitio."
+
+#: includes/admin/class-aws-admin-options.php:294
+msgid "Use Google Analytics"
+msgstr "Usar Google Analytics"
+
+#: includes/admin/class-aws-admin-options.php:275
+#: includes/admin/class-aws-admin-options.php:285
+msgid "Re-index required on change."
+msgstr "Es necesario volver a indexar al cambiar."
+
+#: includes/admin/class-aws-admin-options.php:275
+msgid "Comma separated list of words that will be excluded from search."
+msgstr "Lista de palabras separadas por coma que serán excluidas de la búsqueda."
+
+#: includes/admin/class-aws-admin-options.php:274
+msgid "Stop words list"
+msgstr "Lista de palabras vacías"
+
+#: includes/admin/class-aws-admin-options.php:269
+msgid "Hide"
+msgstr "Ocultar"
+
+#: includes/admin/class-aws-admin-options.php:268
+msgid "Show"
+msgstr "Mostrar"
+
+#: includes/admin/class-aws-admin-options.php:263
+msgid "Show out-of-stock products in search"
+msgstr "Mostrar productos sin existencias en las búsquedas"
+
+#: includes/admin/class-aws-admin-options.php:262
+msgid "Show out-of-stock"
+msgstr "Mostrar sin existencias"
+
+#: includes/admin/class-aws-admin-options.php:220
+msgid "Search in"
+msgstr "Buscar en"
+
+#: includes/admin/class-aws-admin-options.php:209
+msgid "Turn this off if you have any problems with performance."
+msgstr "Desactívalo si tienes cualquier problema con el rendimiento."
+
+#: includes/admin/class-aws-admin-options.php:208
+msgid "Automatically update plugin index table when product content was changed. This means that in search there will be always latest product data."
+msgstr "Actualiza automáticamente la tabla de índices del plugin cuando el contenido de los productos ha sido cambiado. Esto significa que en la búsqueda siempre estarán los últimos datos de los productos."
+
+#: includes/admin/class-aws-admin-options.php:207
+msgid "Sync index table"
+msgstr "Sincronizar la tabla de índices"
+
+#: includes/admin/class-aws-admin-options.php:196
+msgid "Turn off if you have old data in the search results after content of products was changed.<br><strong>CAUTION:</strong> can dramatically increase search speed"
+msgstr "Desactívalo si tienes datos antiguos en los resultados de búsqueda después de que el contenido de los productos haya sido cambiado.<br><strong>PRECAUCIÓN:</strong> puede aumentar mucho la velocidad de la búsqueda"
+
+#: includes/admin/class-aws-admin-options.php:195
+msgid "Cache results"
+msgstr "Guardar los resultados en la caché"
+
+#: includes/admin/class-aws-admin-options.php:190
+#: includes/admin/class-aws-admin-options.php:202
+#: includes/admin/class-aws-admin-options.php:215
+#: includes/admin/class-aws-admin-options.php:303
+#: includes/admin/class-aws-admin-options.php:349
+#: includes/admin/class-aws-admin-options.php:361
+#: includes/admin/class-aws-admin-options.php:373
+#: includes/admin/class-aws-admin-options.php:385
+#: includes/admin/class-aws-admin-options.php:469
+#: includes/admin/class-aws-admin-options.php:481
+#: includes/admin/class-aws-admin-options.php:493
+#: includes/admin/class-aws-admin-options.php:505
+#: includes/admin/class-aws-admin-options.php:517
+#: includes/admin/class-aws-admin-options.php:529
+#: includes/admin/class-aws-admin-options.php:541
+#: includes/admin/class-aws-admin-options.php:553
+#: includes/admin/class-aws-admin-options.php:565
+msgid "Off"
+msgstr "Desactivado"
+
+#: includes/admin/class-aws-admin-options.php:189
+#: includes/admin/class-aws-admin-options.php:201
+#: includes/admin/class-aws-admin-options.php:214
+#: includes/admin/class-aws-admin-options.php:302
+#: includes/admin/class-aws-admin-options.php:348
+#: includes/admin/class-aws-admin-options.php:360
+#: includes/admin/class-aws-admin-options.php:372
+#: includes/admin/class-aws-admin-options.php:384
+#: includes/admin/class-aws-admin-options.php:468
+#: includes/admin/class-aws-admin-options.php:480
+#: includes/admin/class-aws-admin-options.php:492
+#: includes/admin/class-aws-admin-options.php:504
+#: includes/admin/class-aws-admin-options.php:516
+#: includes/admin/class-aws-admin-options.php:528
+#: includes/admin/class-aws-admin-options.php:540
+#: includes/admin/class-aws-admin-options.php:552
+#: includes/admin/class-aws-admin-options.php:564
+msgid "On"
+msgstr "Activado"
+
+#: includes/admin/class-aws-admin-options.php:184
+msgid "Replace all the standard search forms on your website ( may not work with some themes )."
+msgstr "Reemplaza todos los formularios de búsqueda estándar en tu web (puede que no funcione con algunos temas)."
+
+#: includes/admin/class-aws-admin-options.php:183
+msgid "Seamless integration"
+msgstr "Integración perfecta"
+
+#: includes/admin/class-aws-admin-options.php:178
+msgid "Main Settings"
+msgstr "Ajustes principales"
+
+#. Plugin Name of the plugin
+#: includes/modules/elementor-widget/class-elementor-aws-widget.php:33
+#: includes/modules/divi/class-divi-aws-module.php:14
+msgid "Advanced Woo Search"
+msgstr "Advanced Woo Search"
